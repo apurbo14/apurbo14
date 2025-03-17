@@ -1,5 +1,4 @@
 <!--comment-->
-<!DOCTYPE html>
 # Apurbo Krsña Roy | Innovator & Entrepreneur
 👨‍💻 Tech | 🚗 EVs | 🍽️ FoodTech | 🚀 SpaceTech | 🏥 HealthTech
 
@@ -20,10 +19,37 @@ Ambitions to shape the future. Currently laying the foundation for a multi-secto
 </ul>
 
 
-## Currently Working On:
+## Currently Working On
 <ul type="square">
 <li>Ecom – Revolutionizing e-commerce beyond Daraz, Amazon & Alibaba</li>
 <li>EV & Battery Tech – Designing futuristic, sustainable, and luxury vehicles</li>
 <li>Food & Hospitality – Scaling a sattvic multi-cuisine restaurant chain</li>
 <li>HealthTech – Merging telemedicine, medicine delivery & AI-driven healthcare</li>
 </ul>
+
+
+## Skills & Expertise  
+### Tech & Development  
+- Web Development (Basic)  
+- Graphic Design (Logo, Branding, Visual Identity)  
+- UI/UX Design (Basic)  
+- Video Editing
+- Social Media Marketing  
+- Coding (Beginner, Interested in Web & App Development)
+
+### Business & Entrepreneurship  
+- Startup Strategy & Market Research  
+- Business Development & Branding
+- E-commerce & Digital Marketing
+- Restaurant & Food Chain Management
+- Automotive & EV Industry Knowledge
+- Healthcare & Telemedicine Business Strategy
+
+### Soft Strengths  
+- Critical Thinking & Problem Solving  
+- Mathematics & Theoretical Concepts
+- Practical Learning & Execution  
+- Leadership & Team Management  
+- Visionary & Long-term Strategic Planning  
+
+*Note:* *"Think Big. Build Bigger. Disrupt Everything."*  
