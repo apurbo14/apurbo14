@@ -8,8 +8,9 @@ Ambitions to shape the future. Currently laying the foundation for a multi-secto
 <li>Founder of multiple startups, including E-commerce, EV & Battery Tech, Health Tech and more.</li>
 <li>Passionate about deep tech, futuristic design, and practical education.</li>
 <li>A firm believer in innovation over tradition & execution over theory.</li>
-</ul>
+</ul> 
 
+<hr>
 
 ## Mission & Vision
 <ul type="circle">
@@ -18,6 +19,7 @@ Ambitions to shape the future. Currently laying the foundation for a multi-secto
 <li> Redefining mobility, technology, and sustainability for a better tomorrow</li>
 </ul>
 
+<hr>
 
 ## Currently Working On
 <ul type="square">
@@ -27,6 +29,7 @@ Ambitions to shape the future. Currently laying the foundation for a multi-secto
 <li>HealthTech – Merging telemedicine, medicine delivery & AI-driven healthcare</li>
 </ul>
 
+<hr>
 
 ## Skills & Expertise  
 ### Tech & Development  
@@ -50,6 +53,8 @@ Ambitions to shape the future. Currently laying the foundation for a multi-secto
 - Mathematics & Theoretical Concepts
 - Practical Learning & Execution  
 - Leadership & Team Management  
-- Visionary & Long-term Strategic Planning  
+- Visionary & Long-term Strategic Planning
+
+<hr>
 
 *Note:* *"Think Big. Build Bigger. Disrupt Everything."*  
